@@ -1,0 +1,1 @@
+Add --collect-only opt synonym called --co.
